@@ -1,0 +1,8 @@
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/pratts/goroomserver v0.0.0-20210524180432-9a763a2799d9 h1:XI6Zrf4Z+TIHxapRxBOA61o6kT1Mfh3683WyDg4wUVs=
+github.com/pratts/goroomserver v0.0.0-20210524180432-9a763a2799d9/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
+github.com/pratts/goroomserver v0.0.0-20210524190042-1591df14bcd4 h1:+Wj13xz1duGze7V2Gpuz3jQ+w8Ghz/fyFS2mua9Lw38=
+github.com/pratts/goroomserver v0.0.0-20210524190042-1591df14bcd4/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
+github.com/pratts/goroomserver v1.1.1 h1:Nx3FyKyStUPogPZvff8+Ycnq9bmcQdvUK3huMBdtmnY=
+github.com/pratts/goroomserver v1.1.1/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
