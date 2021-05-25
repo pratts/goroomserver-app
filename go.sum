@@ -8,3 +8,15 @@ github.com/pratts/goroomserver v1.1.1 h1:Nx3FyKyStUPogPZvff8+Ycnq9bmcQdvUK3huMBd
 github.com/pratts/goroomserver v1.1.1/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
 github.com/pratts/goroomserver v1.2.0 h1:rDEtKINEy7XwM+C5Y16uTbsIWPG1Y0y4v5d6ZCUUXoE=
 github.com/pratts/goroomserver v1.2.0/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
+github.com/pratts/goroomserver v1.2.1 h1:DvHi2PaRKVlypro1nP7qjhCyNdotCW/4mjfrsZpmzfQ=
+github.com/pratts/goroomserver v1.2.1/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
+github.com/pratts/goroomserver v1.2.2 h1:8mQFR707Q+HfEGN5ukqiwRTY3r08SIHEp1IuesAsJrA=
+github.com/pratts/goroomserver v1.2.2/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
+github.com/pratts/goroomserver v1.2.3 h1:28FJg59Me3Q3kVJDN5e4QmwyBDH6hBCnIObH+aadxw4=
+github.com/pratts/goroomserver v1.2.3/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
+github.com/pratts/goroomserver v1.2.4 h1:IjA+F5GjJ6DKYeLzPuJ7sZMADmSvf7lHQ2mfe7uRkDU=
+github.com/pratts/goroomserver v1.2.4/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
+github.com/pratts/goroomserver v1.2.5 h1:13lUtWSQ/d8Tewn4qb+oDW3K32D0WJdfO6PpGQFovro=
+github.com/pratts/goroomserver v1.2.5/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
+github.com/pratts/goroomserver v1.2.6 h1:B6V3VFc2whK6mI/vJmYfDujbdWE71deyKa06DmGhAd8=
+github.com/pratts/goroomserver v1.2.6/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
