@@ -6,3 +6,5 @@ github.com/pratts/goroomserver v0.0.0-20210524190042-1591df14bcd4 h1:+Wj13xz1duG
 github.com/pratts/goroomserver v0.0.0-20210524190042-1591df14bcd4/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
 github.com/pratts/goroomserver v1.1.1 h1:Nx3FyKyStUPogPZvff8+Ycnq9bmcQdvUK3huMBdtmnY=
 github.com/pratts/goroomserver v1.1.1/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
+github.com/pratts/goroomserver v1.2.0 h1:rDEtKINEy7XwM+C5Y16uTbsIWPG1Y0y4v5d6ZCUUXoE=
+github.com/pratts/goroomserver v1.2.0/go.mod h1:tMSjVxg0iTyalcGceqRj1Pkkd5a2cM9zXRZFWLC6Qgk=
